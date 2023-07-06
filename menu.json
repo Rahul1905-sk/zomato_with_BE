@@ -1,0 +1,82 @@
+{
+    "dishes": [
+        {
+            "ID": 4,
+            "Img": "https://media.istockphoto.com/id/1056463768/photo/bedmi-poori-kachori.jpg?s=612x612&w=0&k=20&c=bNDuxu2saAs9J5MP3HkiUGPpDcfBM9k5uiF0x7YPtfg=",
+            "Name": "Kachori",
+            "Price": 10,
+            "Quantity": 10
+        },
+        {
+            "ID": 1,
+            "Img": "https://media.istockphoto.com/id/1299380316/photo/samosa-with-chutney-in-plate-asian-breakfast-aloo-samosa.jpg?s=612x612&w=0&k=20&c=5qZx0Iz-lyuETPv9SS1lVge2yw2gI3iAA4ArRp7yuu8=",
+            "Name": "Samosa",
+            "Price": 10,
+            "Quantity": 10
+        },
+        {
+            "ID": 2,
+            "Img": "https://media.istockphoto.com/id/1292640499/photo/bread-pakora-or-pakoda-served-with-chutney-a-famous-midday-snack-in-india-served-in-white.jpg?s=612x612&w=0&k=20&c=GqMce-o6TTohjd4HvhUoAtrB16X2svWT9srQ02SgQYc=",
+            "Name": "Bread",
+            "Price": 20,
+            "Quantity": 10
+        },
+        {
+            "ID": 3,
+            "Img": "https://media.istockphoto.com/id/1133151212/photo/japanese-dumplings-gyoza-with-pork-meat-and-vegetables.jpg?s=612x612&w=0&k=20&c=vC6GTUDGK6dD5_QHvY1V7fVUdPx-z4TG73DUACR_L5s=",
+            "Name": "Momo",
+            "Price": 10,
+            "Quantity": 10
+        },
+        {
+            "ID": 5,
+            "Img": "https://media.istockphoto.com/id/478348860/photo/chocolate-cake-with-chocolate-fudge-drizzled-icing-and-chocolate-curls.jpg?s=612x612&w=0&k=20&c=XLHhfThUBkg_-28RCs9h0L-Fu-mUijNBzq8voZmbqqM=",
+            "Name": "Cake",
+            "Price": 50,
+            "Quantity": 20
+        },
+        {
+            "ID": 6,
+            "Img": "https://media.istockphoto.com/id/840599504/photo/spring-rolls.jpg?s=612x612&w=0&k=20&c=wByMigy56ioHSR7QzXFNNAbgiso8xlAqPfAD35A6YGA=",
+            "Name": "Cake",
+            "Price": 80,
+            "Quantity": 25
+        },
+        {
+            "ID": 7,
+            "Img": "https://media.istockphoto.com/id/483137365/photo/asian-chow-mein-noodles.jpg?s=612x612&w=0&k=20&c=aVkPKpDkiAM7CxTFinQBax0i-nm-ybzWimrJRyPePcg=",
+            "Name": "Chowmein",
+            "Price": 120,
+            "Quantity": 5
+        },
+        {
+            "ID": 8,
+            "Img": "https://media.istockphoto.com/id/502708516/photo/italian-pasta-alla-norma-close-up-and-ingredients-horizontal-to.jpg?s=612x612&w=0&k=20&c=9c7HsKEWYRn1co5f6Jct7Z1nWTP1YVlqj_stRUvXLqM=",
+            "Name": "Pasta",
+            "Price": 120,
+            "Quantity": 5
+        },
+        {
+            "ID": 9,
+            "Img": "https://media.istockphoto.com/id/1155838369/photo/asian-honey-chilli-potato-wedges-with-hot-sweet-sauce-sesame-and-green-onions-close-up.jpg?s=612x612&w=0&k=20&c=XxbWa6coNvcp5kEhdG_WMGW3MSRf918mmdafZm8gjs8=",
+            "Name": "Chilli Potato",
+            "Price": 120,
+            "Quantity": 5
+        },
+        {
+            "ID": 10,
+            "Img": "https://media.istockphoto.com/id/495188382/photo/indian-pulav-vegetable-rice-veg-biryani-basmati-rice.jpg?s=612x612&w=0&k=20&c=KQUBQt3PY-9IF31C0gvjrLFb9jZvp5mmLG6Vcxe1e7Q=",
+            "Name": "Biryani",
+            "Price": 250,
+            "Quantity": 5
+        },
+        {
+            "ID": 11,
+            "Img": "https://media.istockphoto.com/id/481750586/photo/masala-sin.jpg?s=612x612&w=0&k=20&c=0KmrVCmb6AuMv9O41E-8tU2WD6DVyVcVxin4DXhzx_c=",
+            "Name": "Dosa",
+            "Price": 200,
+            "Quantity": 4
+        }
+        
+    ]
+}
